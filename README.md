@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, welcome 👋 Eu sou Thalia Oliver 😊
 
-<!--
-**ThaliaOliveiraa/ThaliaOliveiraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Técnica em Informática - IFAL
+- 🔭 Trabalhando como Font-end Developer
+- 🌱 Aprendendo Flutter
+- 👩‍🎓 Cursando Ciência da Computação - UFAL
+ 
+ ##
+<div>  
+  <img align="right" height="180em" src="https://i.ibb.co/b2bvSsV/Thalia-perfil.png"  alt="Thalia-perfil">
+  <a href="https://www.instagram.com/dev_girll/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/> </br> </a>  
+  <a href="https://discord.gg/8yGAzKYX"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+</div>
