@@ -1,4 +1,4 @@
-### Hi there, welcome 👋 Eu sou Thalia Oliver 😊
+### Hi there, welcome 👋 Eu sou Thalia Olliver 😊
 
 - 💻 Técnica em Informática - IFAL
 - 🔭 Trabalhando como Font-end Developer
