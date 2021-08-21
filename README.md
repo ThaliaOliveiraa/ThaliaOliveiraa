@@ -1,6 +1,6 @@
 <img width="495px" align="right" src="https://giffiles.alphacoders.com/147/147483.gif" alt="naomi-deathnote"/>
-  
-### Hi there, 👋 Eu sou Thalia Olliver 😃
+ 
+ ### Hi there, 👋 Eu sou Thalia Olliver 😄
 
 - 👩‍🎓 **Formação:** Técnica em Informática - [IFAL](https://www2.ifal.edu.br/)
 - 👩‍💻 **Trabalhando:** Font-end Developer
