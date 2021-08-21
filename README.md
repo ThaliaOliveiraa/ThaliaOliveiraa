@@ -1,4 +1,4 @@
-<img width="295px" align="right" src="https://img.elo7.com.br/product/zoom/13547B2/adesivo-avatar-frete-incluso-geladeira.jpg" alt="L-deathnote"/>
+<img width="495px" align="right" src="https://giffiles.alphacoders.com/147/147483.gif" alt="naomi-deathnote"/>
   
 ### Hi there, 👋 Eu sou Thalia Olliver 😊
 
